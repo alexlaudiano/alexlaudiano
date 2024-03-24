@@ -1,8 +1,7 @@
 ### Olá 👋
 
-<div style="display: inline_block"><br>
-
- <img align="center" alt="Alex-PBI" height="30" width="40" src="https://raw.github.com/microsoft/PowerBI-Icons/blog/main/PNG/Power-BI.png">
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Alex-PBI" height="30" width="40" src="https://icons8.com.br/icon/3sGOUDo9nJ4k/power-bi-2021">
  <div>
   
  ##
