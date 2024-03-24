@@ -1,5 +1,10 @@
 ### Olá 👋
 
+<div style="display: inline_block"><br>
+
+ <img align="center" alt="Alex-PBI" height="30" width="40" src="https://raw.github.com/microsoft/PowerBI-Icons/blog/main/PNG/Power-BI.png">
+ <div>
+  
  ##
  <div>
   <a href = "mailto:laudiano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
