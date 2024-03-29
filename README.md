@@ -1,5 +1,5 @@
 #### Olá 👋 Eu sou Alex Laudiano
-##
+#
 #### Analista de Planejamento em transição para Analista de Dados. Um entusiasta de tecnologia.
 
  <div style="display: inline_block"><br>
