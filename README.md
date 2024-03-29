@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá 👋 Eu sou Alex Laudiano, Analista de Planejamento em transição para Analista de Dados. Um entusiasta de tecnologia.
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Alex-BI" height="30" width="25" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
