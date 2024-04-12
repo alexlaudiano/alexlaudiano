@@ -1,4 +1,4 @@
-#### Olá 👋 Eu sou Alex Laudiano
+### Olá 👋 Eu sou Alex Laudiano
 Analista de Planejamento em transição para Analista de Dados.
 
  <div style="display: inline_block"><br>
