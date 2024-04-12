@@ -4,8 +4,8 @@
 ## Contacts
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/laudianoalex/?hl=pt-br) 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laudiano/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-373737?style=flat&logo=Gmail&logoColor=white)](laudiano@gmail.com)
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-373737?style=flat&logo=microsoft-outlook&logoColor=white)](alexlaudi@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-373737?style=flat&logo=Gmail&logoColor=white)](mailto:laudiano@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-373737?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:alexlaudi@hotmail.com)
 
 ## Skills
 
