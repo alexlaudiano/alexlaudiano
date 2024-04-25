@@ -13,6 +13,7 @@
   <img align="center" alt="Alex-BI" height="40" width="35" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
   <img align="center" alt="Alex-Excel" height="40" width="40" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png">
   <img align="center" alt="Alex-python" height="40" width="40" src="https://devicons.dev.br/icons?icon=Python&theme=dark">
+  <img align="center" alt="Alex-python" height="40" width="40" src="https://devicons.dev.br/icons?icon=Java&theme=dark">
   <img align="top" alt="Alex-MySQL" height="40" width="40" src="https://devicons.dev.br/icons?icon=MySQL&theme=dark">
   <img align="top" alt="Alex-PostgreSQL" height="40" width="40" src="https://devicons.dev.br/icons?icon=PostgreSQL&theme=dark">
   <img align="top" alt="Alex-SQLite" height="40" width="40" src="https://devicons.dev.br/icons?icon=SQLite&theme=dark">
@@ -21,7 +22,7 @@
 ## Stats
 <div align="left">
   <a href="https://github.com/AlexLaudiano">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexLaudiano&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLaudiano&layout=compact&langs_count=7&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexLaudiano&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLaudiano&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
