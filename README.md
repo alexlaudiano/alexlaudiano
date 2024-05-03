@@ -13,7 +13,7 @@
   <img align="center" alt="Alex-BI" height="40" width="35" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
   <img align="center" alt="Alex-Excel" height="40" width="40" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png">
   <img align="center" alt="Alex-python" height="40" width="40" src="https://devicons.dev.br/icons?icon=Python&theme=dark">
-  <img align="center" alt="Alex-python" height="40" width="40" src="https://devicons.dev.br/icons?icon=Java&theme=dark">
+  <img align="center" alt="Alex-java" height="40" width="40" src="https://devicons.dev.br/icons?icon=Java&theme=dark">
   <img align="top" alt="Alex-MySQL" height="40" width="40" src="https://devicons.dev.br/icons?icon=MySQL&theme=dark">
   <img align="top" alt="Alex-PostgreSQL" height="40" width="40" src="https://devicons.dev.br/icons?icon=PostgreSQL&theme=dark">
   <img align="top" alt="Alex-SQLite" height="40" width="40" src="https://devicons.dev.br/icons?icon=SQLite&theme=dark">
