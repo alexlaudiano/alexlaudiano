@@ -1,7 +1,4 @@
-### Olá 👋 , sou Alex Laudiano
-
-Analista de Planejamento e Controles em transição de carreira para explorar novas oportunidades e desafios na área de dados.
-- 🌱 Atualmente estou aprendendo: **Java, Python, SQL e Análise de Dados**
+### Olá, sou o Alex Laudiano 👋 
 
 #
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexlaudiano&label=Profile%20views&color=0e75b6&style=flat" alt="alexlaudiano" /> </p>
