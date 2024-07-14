@@ -1,5 +1,5 @@
 # Olá, sou o Alex Laudiano 👋
-## seja bem vindo ao meu perfil GitHub.
+## Seja bem vindo ao meu perfil GitHub.
 
 #
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexlaudiano&label=Profile%20views&color=0e75b6&style=flat" alt="alexlaudiano" /> </p>
