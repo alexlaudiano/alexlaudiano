@@ -42,9 +42,6 @@ Sou analista de planejamento e dados localizado no Brasil, com paixão por tecno
 ## GitHub Stats ⚡
 <div>
   <a href="https://github.com/alexlaudiano">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexlaudiano&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
   <center>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlaudiano&layout=compact&langs_count=7&theme=transparent"/> 
   </center>
