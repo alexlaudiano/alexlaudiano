@@ -10,27 +10,22 @@ Sou analista de planejamento e dados localizado no Brasil, com paixão por tecno
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/laudianoalex/?hl=pt-br)
 
 ### 🔧 Tecnologias e Ferramentas
-- **Linguagens de Programação:** Python, R, SQL, JavaScript
-- **Bibliotecas e Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
-- **Ferramentas:** Jupyter Notebook, VS Code, Git, Docker
-- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
-
-### 🌱 Aprendizado continuo
-- Ciência de Dados
-- Novas linguagens de programação
-- Inteligência Artificial e Machine Learning
-
-## Skills
-
- <div style="display: inline_block"><br>
-  <img align="center" alt="Alex-BI" height="40" width="35" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
-  <img align="center" alt="Alex-Excel" height="40" width="40" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png">
-  <img align="center" alt="Alex-python" height="40" width="40" src="https://devicons.dev.br/icons?icon=Python&theme=dark">
-  <img align="center" alt="Alex-java" height="40" width="40" src="https://devicons.dev.br/icons?icon=Java&theme=dark">
-  <img align="top" alt="Alex-MySQL" height="40" width="40" src="https://devicons.dev.br/icons?icon=MySQL&theme=dark">
-  <img align="top" alt="Alex-PostgreSQL" height="40" width="40" src="https://devicons.dev.br/icons?icon=PostgreSQL&theme=dark">
-  <img align="top" alt="Alex-SQLite" height="40" width="40" src="https://devicons.dev.br/icons?icon=SQLite&theme=dark">
- <div>
+<div>
+  <h4>Linguagens de Programação</h4>
+  <img align="center" alt="Alex-python" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" alt="Alex-javascript" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Alex-java" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <h4>Ferramentas</h4>
+  <img align="center" alt="Alex-jupyter" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
+  <img align="center" alt="Alex-vscode" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="Alex-git" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <h4>Banco de Dados</h4>
+  <img align="center" alt="Alex-mysql" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Alex-postgresql" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <h4>Ferramentas de BI e Análise</h4>
+  <img align="center" alt="Alex-BI" height="25" width="20" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
+  <img align="center" alt="Alex-Excel" height="25" width="25" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png">
+</div>
   
 ## Stats
 <div align="left">
