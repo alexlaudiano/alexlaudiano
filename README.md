@@ -14,13 +14,13 @@ Sou analista de planejamento e dados localizado no Brasil, com paixão por tecno
 
 ## Tecnologias e Ferramentas 🔧 
 <div>
-  <h4>Linguagens e Tecnologias</h4>
+  <h4>⁜ Linguagens e Tecnologias</h4>
   <img align="center" alt="Alex-python" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" alt="Alex-java" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img align="center" alt="Alex-html5" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" alt="Alex-javascript" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Alex-css3" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <h4>Ferramentas e Plataformas</h4>
+  <h4>⁜ Ferramentas e Plataformas</h4>
   <img align="center" alt="Alex-git" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" alt="Alex-git" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
   <img align="center" alt="Alex-jupyter" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
@@ -28,11 +28,11 @@ Sou analista de planejamento e dados localizado no Brasil, com paixão por tecno
   <img align="center" alt="Alex-vscode" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="Alex-figma" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
   <img align="center" alt="Alex-canva" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <h4>Banco de Dados</h4>
+  <h4>⁜ Banco de Dados</h4>
   <img align="center" alt="Alex-mysql" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Alex-postgresql" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="Alex-postgresql" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
-  <h4>Ferramentas de BI e Análise</h4>
+  <h4>⁜ Ferramentas de BI e Análise</h4>
   <img align="center" alt="Alex-BI" height="25" width="20" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
   <img align="center" alt="Alex-Excel" height="25" width="25" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png">
 </div>
