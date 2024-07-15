@@ -1,7 +1,7 @@
 ## Olá, eu sou o Alex Laudiano e seja bem vindo ao meu perfil GitHub 👋
 
 ## Sobre mim
-Sou analista de planejamento e dados localizado no Brasil, com paixão por tecnologia, inteligência artificial, linguagens de programação e aprendizado de novos idiomas.
+Sou analista de planejamento e dados localizado no Brasil, com paixão por tecnologia, inteligência artificial, linguagens de programação e aprendizado de novos idiomas. Tenho experiência em projetos de análise de dados, onde utilizei ferramentas como Python e Power BI para transformar dados brutos em insights acionáveis. Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades para contribuir de forma significativa em projetos de TI e ciência de dados.
 
 <p align="right">
 <img src="https://views.whatilearened.today/views/github/alexlaudiano/views.svg"> <a href="https://github.com/alexlaudiano/"><img src="https://img.shields.io/github/followers/alexlaudiano?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
@@ -12,15 +12,6 @@ Sou analista de planejamento e dados localizado no Brasil, com paixão por tecno
 [![Gmail Badge](https://img.shields.io/badge/Gmail-373737?style=flat&logo=Gmail&logoColor=white)](mailto:laudiano@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-373737?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:alexlaudi@hotmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/laudianoalex/?hl=pt-br)
-
-## Tecnologias que estou aprendendo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" align="center" width="30" height="30"/>
-<div>
-  <img align="center" alt="Alex-python" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="Alex-java" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="center" alt="Alex-html5" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Alex-javascript" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Alex-css3" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</div>
 
 ## Tecnologias e Ferramentas 🔧 
 <div>
