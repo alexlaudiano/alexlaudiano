@@ -1,15 +1,24 @@
-# Olá, sou o Alex Laudiano 👋
-## Seja bem vindo ao meu perfil GitHub.
+## Olá, eu sou o Alex Laudiano e seja bem vindo ao meu perfil GitHub 👋
 
-#
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexlaudiano&label=Profile%20views&color=0e75b6&style=flat" alt="alexlaudiano" /> </p>
+### Sobre mim
+Sou analista de planejamento e dados localizado no Brasil, com paixão por tecnologia, inteligência artificial, linguagens de programação e aprendizado de novos idiomas.
 
-
-## Contacts
+### 📫 Como me encontrar
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laudiano/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-373737?style=flat&logo=Gmail&logoColor=white)](mailto:laudiano@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-373737?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:alexlaudi@hotmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/laudianoalex/?hl=pt-br)
+
+### 🔧 Tecnologias e Ferramentas
+- **Linguagens de Programação:** Python, R, SQL, JavaScript
+- **Bibliotecas e Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
+- **Ferramentas:** Jupyter Notebook, VS Code, Git, Docker
+- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
+
+### 🌱 Aprendizado continuo
+- Ciência de Dados
+- Novas linguagens de programação
+- Inteligência Artificial e Machine Learning
 
 ## Skills
 
@@ -30,3 +39,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLaudiano&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
+---
+
+> "A tecnologia é melhor quando reúne as pessoas." – Matt Mullenweg
