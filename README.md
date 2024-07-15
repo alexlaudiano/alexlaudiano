@@ -1,7 +1,9 @@
 ## Olá, eu sou o Alex Laudiano e seja bem vindo ao meu perfil GitHub 👋
 
 ## Sobre mim
+<p align="left">
 Sou analista de planejamento e dados localizado no Brasil, com paixão por tecnologia, inteligência artificial, linguagens de programação e aprendizado de novos idiomas. Tenho experiência em projetos de análise de dados, onde utilizei ferramentas como Python e Power BI para transformar dados brutos em insights acionáveis. Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades para contribuir de forma significativa em projetos de TI e ciência de dados.
+</p>
 
 <p align="right">
 <img src="https://views.whatilearened.today/views/github/alexlaudiano/views.svg"> <a href="https://github.com/alexlaudiano/"><img src="https://img.shields.io/github/followers/alexlaudiano?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
