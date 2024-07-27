@@ -34,6 +34,7 @@ Sou analista de planejamento e dados localizado no Brasil, com paixão por tecno
   <img align="center" alt="Alex-mysql" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Alex-postgresql" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="Alex-postgresql" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+  <img align="center" alt="Alex-sqlserver" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
   <h4>⁜ Ferramentas de BI e Análise</h4>
   <img align="center" alt="Alex-BI" height="25" width="20" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
   <img align="center" alt="Alex-Excel" height="25" width="25" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png">
