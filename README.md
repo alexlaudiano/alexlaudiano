@@ -1,8 +1,6 @@
-<div align="right">
-  <img width = "500px" src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
-</div>
-
 ## Olá, eu sou o Alex Laudiano e seja bem vindo ao meu perfil GitHub 👋
+
+<img width = "500px" src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Software Developer">
 
 ## Sobre mim
 <p align="left">
